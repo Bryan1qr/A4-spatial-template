@@ -8,7 +8,7 @@ Designed for cartographic work in Peru, with **Cusco** as the default area of fo
 
 <br>
 
-<img src="img/repo-logo.png" alt="A4 Template for Maps in QGIS" width="700">
+<img src="img/repo-logo.png" alt="A4 Template for Maps in QGIS" width="400">
 
 <br>
 
@@ -43,17 +43,6 @@ The goal is simple:
 | 🎨 **Clean design** | Minimal and publication-oriented visual style |
 | 🖨️ **Print ready** | Suitable for PDF and high-resolution export |
 
----
-
-## 🖼️ Preview
-
-<div align="center">
-
-<img src="img/repo-logo.png" alt="QGIS A4 Template Preview" width="600">
-
-</div>
-
----
 
 ## 🚀 Getting Started
 
